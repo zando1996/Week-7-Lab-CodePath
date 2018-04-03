@@ -3,9 +3,20 @@ Week 7 Lab Project
 WEEK 7 LAB ~ WORDPRESS VULNERABILITIES
 
 
-Vulnerability 1:
 
-<img src="my_gif_walkthrough_ezgif.com-video-to-gif.gif
+<img src="mezgif.com-video-to-gif" width="800">
+
+
+
+
+
+
+
+
+
+
+
+Vulnerability 1:
 
 
 
