@@ -5,9 +5,15 @@ WEEK 7 LAB ~ WORDPRESS VULNERABILITIES
 
 Vulnerability 1:
 
+<img src="my_gif_walkthrough_ezgif.com-video-to-gif.gif" width="800">
+
+
+
 User Enumeration, WordPress version 4.2
 
 After attempting multiple logins, we noticed that the first login attempt returns invalid username. Next we tried admin and were prompted with a warning saying “The password you entered for the username Admin is incorrect.” This vulnerability demonstrates that a user can sufficiently determine a correct username and potentially brute force a password.
+
+
 
 
 Vulnerability 2:
