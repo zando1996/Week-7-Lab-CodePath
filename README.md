@@ -5,7 +5,7 @@ WEEK 7 LAB ~ WORDPRESS VULNERABILITIES
 
 Vulnerability 1:
 
-<img src="my_gif_walkthrough_ezgif.com-video-to-gif.gif"
+<img src="my_gif_walkthrough_ezgif.com-video-to-gif.gif
 
 
 
